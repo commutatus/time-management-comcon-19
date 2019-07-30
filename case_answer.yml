@@ -1,0 +1,27 @@
+bad:
+  before_seven:
+    message: 'Its not even 7 da.'
+  before_seven_thirty:
+    message: 'There is lot of time da.'
+  before_eight:
+    message: 'We need to get ready da.'
+  before_eight_thirty:
+    message: 'Macha do you have extra belt?'
+normal:
+  before_seven:
+    message: 'There is lot of time da.'
+  before_seven_thirty:
+    message: 'There is lot of time da.'
+  before_eight:
+    message: 'There is lot of time da.'
+  before_eight_thirty:
+    message: 'There is lot of time da.'
+best:
+  before_seven:
+    message: 'There is lot of time da.'
+  before_seven_thirty:
+    message: 'There is lot of time da.'
+  before_eight:
+    message: 'There is lot of time da.'
+  before_eight_thirty:
+    message: 'There is lot of time da.'
