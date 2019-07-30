@@ -1,7 +1,6 @@
 class MakingDecision
   ACTIONS = ['drink', 'roam', 'play', 'sleep', 'bath', 'get_ready']
   def self.at(time, chosen_case)
-    puts "Possible actions for you to choose - #{ACTIONS}"
     case time
     when Time.parse('6:30PM')..Time.parse('7:00PM')
       print "What do you want to do at #{time} "

@@ -15,7 +15,7 @@ class GalaNight
 
   def self.before_seven_thirty(chosen_case, time)
     if chosen_case == "bad"
-      puts RESPONSE[chosen_case]['before_seven']['message']
+      puts RESPONSE[chosen_case]['before_seven_thirty']['message']
       time = time + (15*60)
       MakingDecision.at(time, chosen_case)
     elsif chosen_case == "normal"
@@ -26,7 +26,7 @@ class GalaNight
 
   def self.before_eight(chosen_case, time)
     if chosen_case == "bad"
-      puts RESPONSE[chosen_case]['before_seven']['message']
+      puts RESPONSE[chosen_case]['before_eight']['message']
       time = time + (15*60)
       MakingDecision.at(time, chosen_case)
     elsif chosen_case == "normal"
@@ -37,7 +37,7 @@ class GalaNight
 
   def self.before_eight_thirty(chosen_case, time)
     if chosen_case == "bad"
-      puts RESPONSE[chosen_case]['before_seven']['message']
+      puts RESPONSE[chosen_case]['before_eight_thirty']['message']
       time = time + (15*60)
       MakingDecision.at(time, chosen_case)
     elsif chosen_case == "normal"

@@ -18,6 +18,7 @@ print "Please pick your case : "
 chosen_case = STDIN.gets.chomp
 if CASES.include?(chosen_case)
   time = Time.parse('6:30PM')
+  puts "Possible actions for you to choose - ['drink', 'roam', 'play', 'sleep', 'bath', 'get_ready']"
   MakingDecision.at(time, chosen_case)
 else
   print "Please choose correct answer #{CASES.include?(chosen_case.to_s)} #{chosen_case.class}"
