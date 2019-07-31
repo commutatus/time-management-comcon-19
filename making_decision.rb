@@ -6,7 +6,7 @@ class MakingDecision
       print "At #{time.strftime('%I:%M %p')} #{room_mates.sample} wants to : "
       chosen_action = STDIN.gets.chomp
       if ACTIONS.include?(chosen_action)
-        GalaNight.before_seven(chosen_case, time, room_mates)
+        GalaNight.before_seven(chosen_case, chosen_action, time, room_mates)
       else
         print "Please choose correct action"
       end
@@ -14,7 +14,7 @@ class MakingDecision
       print "At #{time.strftime('%I:%M %p')} #{room_mates.sample} wants to : "
       chosen_action = STDIN.gets.chomp
       if ACTIONS.include?(chosen_action)
-        GalaNight.before_seven_thirty(chosen_case, time, room_mates)
+        GalaNight.before_seven_thirty(chosen_case, chosen_action, time, room_mates)
       else
         print "Please choose correct action"
       end
@@ -22,7 +22,7 @@ class MakingDecision
       print "At #{time.strftime('%I:%M %p')} #{room_mates.sample} wants to : "
       chosen_action = STDIN.gets.chomp
       if ACTIONS.include?(chosen_action)
-        GalaNight.before_eight(chosen_case, time, room_mates)
+        GalaNight.before_eight(chosen_case, chosen_action, time, room_mates)
       else
         print "Please choose correct action"
       end
@@ -30,7 +30,7 @@ class MakingDecision
       print "At #{time.strftime('%I:%M %p')} #{room_mates.sample} wants to : "
       chosen_action = STDIN.gets.chomp
       if ACTIONS.include?(chosen_action)
-        GalaNight.before_eight_thirty(chosen_case, time, room_mates)
+        GalaNight.before_eight_thirty(chosen_case, chosen_action, time, room_mates)
       else
         print "Please choose correct action"
       end

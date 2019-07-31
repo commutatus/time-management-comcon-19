@@ -1,27 +1,87 @@
 bad:
   before_seven:
-    message: 'Its not even 7 da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_seven_thirty:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_eight:
-    message: 'We need to get ready da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_eight_thirty:
-    message: 'Macha do you have extra belt?'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
 normal:
   before_seven:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_seven_thirty:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_eight:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_eight_thirty:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
 best:
   before_seven:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_seven_thirty:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_eight:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
   before_eight_thirty:
-    message: 'There is lot of time da.'
+    drink: ['Perfect choice da.']
+    roam: ['I think we should play or drink']
+    play: ['After this we should have drinks']
+    sleep: ['Enjoy the life da.']
+    bath: ['We have 2 hours macha']
+    get_ready: ['You cant do anything after you got ready']
